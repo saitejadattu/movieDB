@@ -1,0 +1,28 @@
+.list-item-container {
+  margin: 10px;
+  box-shadow: 0px 2px 4px black;
+  width: 220px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.movie-image {
+  height: 300px;
+  width: 220px;
+}
+.contet-container {
+  padding-left: 20px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.view-details-button {
+  padding: 10px;
+  width: 100%;
+  border: 0px;
+  padding-left: 20px;
+}
+.view-details-button:hover {
+  background-color: aqua;
+}
